@@ -11,6 +11,9 @@ Overview of the Project
 
 Project: Library Management System
 
+![image](https://github.com/user-attachments/assets/37455b33-1d37-4359-bffc-b39f18e1cb2a)
+
+
 Objective :
 The primary objective of the Library Management System (LMS) is to perform various operations of a library, enhancing efficiency, accuracy, and accessibility of library resources. The system aims to:
 •	Improve book management: Facilitated efficient book allocation and tracking.
